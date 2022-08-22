@@ -65,7 +65,7 @@ public class AddressPage {
     public void enterCongTy(){
         waitForAppear(inputCongTy);
         WebElement inputCT = driver.findElement(inputCongTy);
-        inputCT.sendKeys("LogiGear");
+        inputCT.sendKeys("LogiGear Hue");
     }
 
     public void enterSoDienThoai(){
