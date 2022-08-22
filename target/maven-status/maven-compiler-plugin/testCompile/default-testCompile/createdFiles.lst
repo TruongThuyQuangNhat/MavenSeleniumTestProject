@@ -1,0 +1,5 @@
+chat\ChatTests.class
+base\BaseTests.class
+address\AddressTests.class
+search\SearchTests.class
+login\LoginTests.class
